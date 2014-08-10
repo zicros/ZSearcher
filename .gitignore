@@ -1,3 +1,10 @@
+# Source files
+*.cpp
+*.h
+*.c
+*.rc
+*.sln
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
